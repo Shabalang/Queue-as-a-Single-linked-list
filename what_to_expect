@@ -1,0 +1,39 @@
+-------Test Queue---------
+-------Test En Queue------
+-------En Queue Done-------
+1
+2
+3
+4
+-2000000
+a
+500000
+50
+------Queue Print Done-----
+------Queue Print Done-----
+50
+1
+----------De Queue---------
+sucess
+--------De Queue Done------
+2
+3
+4
+-2000000
+a
+500000
+50
+-----Queue Print Done------
+-----Test search-------
+Found value
+a
+-------Full De Queue-------
+sucess
+sucess
+sucess
+sucess
+sucess
+sucess
+sucess
+--------De Queue Done------
+-----Queue Print Done------
